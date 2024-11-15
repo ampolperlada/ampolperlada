@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Paul Perlada</h1>
 <h3 align="center">Junior Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ampolperlada&label=Profile%20views&color=0e75b6&style=flat" alt="ampolperlada" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ampolperlada" alt="ampolperlada" /></a> </p>
-
 - 🔭 I’m currently working on **Library Resource Center**
 
 - 🌱 I’m currently learning **React**
@@ -29,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ampolperlada&show_icons=true&locale=en" alt="ampolperlada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ampolperlada&" alt="ampolperlada" /></p>
-
