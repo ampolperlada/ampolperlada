@@ -62,6 +62,9 @@
       <a href="https://github.com/ampolperlada/authentication-sys">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
       </a>
+      <a href="https://github.com/ampolperlada/authentication-sys">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
+      </a>
     </td>
   </tr>
 </table>
