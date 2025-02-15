@@ -28,8 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ampolperlada&" alt="ampolperlada" /></p>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
+![giphy](https://github.com/user-attachments/assets/3711d52d-1ca5-4c59-88a3-9ed6526f0fe7)
