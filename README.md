@@ -52,16 +52,16 @@
 <table>
   <tr>
     <td>
-      <img src="![GIF](https://github.com/user-attachments/assets/3711d52d-1ca5-4c59-88a3-9ed6526f0fe7) " width="250px">
+      <img src="https://i.ibb.co/1fscVPX6/giphy.gif" width="250px">
     </td>
     <td>
       <h2>🚀 My Projects</h2>
       <p>A collection of my best work, showcasing my skills in development.</p>
-      <a href="https://github.com/your-username/repo-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical">
+      <a href="https://github.com/YOUR-USERNAME/REPO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-1&theme=radical">
       </a>
-      <a href="https://github.com/your-username/repo-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical">
+      <a href="https://github.com/YOUR-USERNAME/REPO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-2&theme=radical">
       </a>
     </td>
   </tr>
