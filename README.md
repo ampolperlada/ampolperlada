@@ -48,12 +48,21 @@
 </p>
 
 ---
-![GIF](https://i.ibb.co/1fscVPX6/giphy.gif)
-
-## 🚀 My Projects
-A collection of my best work, showcasing my skills in development.
-
-[![Music Genre API](https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical)](https://github.com/ampolperlada/music-genre-api)
-
-[![Authentication System](https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical)](https://github.com/ampolperlada/authentication-sys)
+<table>
+  <tr>
+    <td>
+      <img src="https://i.ibb.co/1fscVPX6/giphy.gif" width="250px">
+    </td>
+    <td>
+      <h2>🚀 My Projects</h2>
+      <p>A collection of my best work, showcasing my skills in development.</p>
+      <a href="https://github.com/ampolperlada/music-genre-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
+      </a>
+      <a href="https://github.com/ampolperlada/authentication-sys">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
+      </a>
+    </td>
+  </tr>
+</table>
 
