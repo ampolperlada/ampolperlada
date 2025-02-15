@@ -57,12 +57,12 @@
       <h2>🚀 My Projects</h2>
       <p>A collection of my best work, showcasing my skills in development.</p>
       <a href="https://github.com/ampolperlada/music-genre-api">
-      </a> <p> Music api description </p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
+      </a>
       <a href="https://github.com/ampolperlada/authentication-sys">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
-      </a> 
+      </a>
     </td>
   </tr>
 </table>
-
 
