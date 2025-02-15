@@ -51,10 +51,15 @@
 
 ![GIF](https://github.com/user-attachments/assets/3711d52d-1ca5-4c59-88a3-9ed6526f0fe7) 
 
-## 🚀 My Projects
+## 🚀 My Projects  
 A collection of my best work, showcasing my skills in development.
+
+<div align="right">
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
 
 [![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo&theme=radical)](https://github.com/your-username/another-repo)
+
+</div>
+
 
