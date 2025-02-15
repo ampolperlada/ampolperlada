@@ -48,7 +48,6 @@
 </p>
 
 ---
-
 <table>
   <tr>
     <td>
@@ -57,12 +56,17 @@
     <td>
       <h2>🚀 My Projects</h2>
       <p>A collection of my best work, showcasing my skills in development.</p>
-      <a href="https://github.com/YOUR-USERNAME/REPO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-1&theme=radical">
+      
+      <!-- First Project -->
+      <a href="https://github.com/ampolperlada/music-genre-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
       </a>
-      <a href="https://github.com/YOUR-USERNAME/REPO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-2&theme=radical">
+
+      <!-- Second Project -->
+      <a href="https://github.com/ampolperlada/authentication-sys">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
       </a>
     </td>
   </tr>
 </table>
+
