@@ -44,8 +44,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub%20Streak-Loading...-blue" alt="GitHub Streak"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ampolperlada&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ---
