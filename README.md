@@ -41,12 +41,7 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ampolperlada&theme=radical" alt="GitHub Streak"/>
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats-six-rho-30.vercel.app?user=ampolperlada&theme=radical)](https://git.io/streak-stats)
 
 ---
 <table>
