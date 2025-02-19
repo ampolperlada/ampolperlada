@@ -44,7 +44,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streaks.vercel.app/?user=ampolperlada&theme=radical" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/GitHub%20Streak-Loading...-blue" alt="GitHub Streak"/>
+
 </p>
 
 ---
