@@ -10,7 +10,7 @@
 - 🔭 **Currently working on:** Library Resource Center
 - 🌱 **Currently learning:** Backend Development
 - 🤝 **Looking for help with:** Collection Management Platform
-- 👨‍💻 **Projects:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
+- 👨‍💻 **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
 - 💬 **Ask me about:** Web Development
 - 📫 **How to reach me:** christianp.perlada@gmail.com
 
