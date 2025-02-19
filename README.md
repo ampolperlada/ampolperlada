@@ -2,8 +2,8 @@
 <h3 align="center" style="color: #7B2CBF;">Junior Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ampolperlada&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ampolperlada&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
 </p>
 
 ### About Me
@@ -44,7 +44,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ampolperlada&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ampolperlada&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -56,16 +56,12 @@
     <td>
       <h2>🚀 My Projects</h2>
       <p>A collection of my best work, showcasing my skills in development.</p>
-  <a href="https://github.com/ampolperlada/music-genre-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
-</a>
-<a href="https://github.com/ampolperlada/authentication-sys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
-</a>
+      <a href="https://github.com/ampolperlada/music-genre-api">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
+      </a>
+      <a href="https://github.com/ampolperlada/authentication-sys">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
+      </a>
     </td>
   </tr>
 </table>
-
-
-
-
