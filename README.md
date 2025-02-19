@@ -43,9 +43,8 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=ampolperlada&theme=radical)](https://git.io/streak-stats)
-</p>
+
 
 ---
 <table>
