@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ampolperlada&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
 </p>
 
-### About Me
+## About Me
 - **Currently working on:** Library Resource Center
 - **Currently learning:** Backend Development
 - **Looking for help with:** Collection Management Platform
