@@ -14,6 +14,7 @@
 - **Ask me about:** Web Development
 - **How to reach me:** christianp.perlada@gmail.com
 -----🦖🦖🦖-----
+- ** Open for Comission 
 ---
 
 @@@ 📲 Connect with Me
