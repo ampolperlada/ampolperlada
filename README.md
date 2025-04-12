@@ -2,8 +2,9 @@
 <h3 align="center" style="color: #7B2CBF;">Junior Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ampolperlada&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
+  <!-- Updated stats cards with fallback options -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampolperlada&layout=compact&theme=radical&hide=php,jupyter%20notebook&cache_seconds=1800" alt="Top Languages" width="42%"/>
 </p>
 
 ## About Me
@@ -20,7 +21,7 @@
 - nd cto m6 artist 
 ---
 
-@@@ 📲 Connect with Me
+### 📲 Connect with Me
 <p align="left">
   <a href="https://twitter.com/doggo" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
@@ -45,7 +46,7 @@
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats-six-rho-30.vercel.app?user=ampolperlada&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ampolperlada&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 <table>
@@ -57,10 +58,10 @@
       <h2>🚀 My Projects</h2>
       <p>A collection of my best work, showcasing my skills in development</p>
       <a href="https://github.com/ampolperlada/music-genre-api">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
       </a>
       <a href="https://github.com/ampolperlada/authentication-sys">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
       </a>
     </td>
   </tr>
