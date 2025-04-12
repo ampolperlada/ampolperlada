@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #D16BA5;">俺は, I'm Christian Paul Perlada</h1>
+<h1 align="center" style="color: #D16BA5;">俺は, Christian Paul Perlada</h1>
 <h3 align="center" style="color: #7B2CBF;">Junior Developer</h3>
 
 <p align="center">
