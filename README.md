@@ -1,8 +1,6 @@
 <h1 align="center" style="color: #D16BA5;">俺は, Christian Paul Perlada</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=32&duration=3000&pause=1000&color=FFFFFF&background=0F0F2300&center=true&vCenter=true&width=500&lines=Developer;Software+Engineer" alt="Typing Animation" />
-  </a>
+<p align="center" style="font-size: 32px; color: #FFFFFF;">
+  Developer | Software Engineer
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="50%"/>
