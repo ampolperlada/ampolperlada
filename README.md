@@ -21,7 +21,6 @@
 - rv streams
 - doxymenta
 - lookin dr gam
-- storage for img
 
 ---
 ## 🌐 Connect with Me
