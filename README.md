@@ -20,7 +20,6 @@
 - nd cto cfo 
 - rv streams
 - doxymenta
-- lookin dr gam
 
 ---
 ## 🌐 Connect with Me
