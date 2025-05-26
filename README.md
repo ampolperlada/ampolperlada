@@ -17,7 +17,6 @@
 -----🦖🦖🦖-----
 - Open for Commission  
 - ls streak opensource mm
-- nd cto cfo 
 
 ---
 ## 🌐 Connect with Me
