@@ -18,7 +18,6 @@
 - Open for Commission  
 - ls streak opensource mm
 - nd cto cfo 
-- rv streams
 
 ---
 ## 🌐 Connect with Me
