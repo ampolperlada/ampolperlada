@@ -8,8 +8,8 @@
 </p>
 
 ## About Me
-- **Currently working on:** Library Resource Center
-- **Currently learning:** Backend Development
+- **Currently working on:** NFT Integration (Ft Solana)
+- **Currently learning:** 
 - **Looking for help with:** Collection Management Platform
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
 - **Ask me about:** Web Development
