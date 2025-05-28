@@ -12,7 +12,7 @@
 - **Currently learning:** Data Mining
 - **Looking for help with:** Collection Management Platform (Airbnb lzi)
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
-- **Ask me about:** Web Development
+- **Ask me about:** Data Science
 - **How to reach me:** christianp.perlada@gmail.com
 -----🦖🦖🦖-----
 
