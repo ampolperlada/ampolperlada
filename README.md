@@ -67,7 +67,7 @@
       <img src="https://i.ibb.co/1fscVPX6/giphy.gif" width="250px">
     </td>
     <td>
-      <h2>🚀 My Projects</h2>
+      <h2> My Projects</h2>
       <p>A collection of my best work, showcasing my skills in development</p>
       <a href="https://github.com/ampolperlada/music-genre-api">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
