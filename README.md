@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #D16BA5;">ore wa, Christian Paul Perlada</h1>
+<h1 align="center" style="color: #D16BA5;">俺は, Christian Paul Perlada</h1>
 <p align="center" style="font-size: 32px; color: #FFFFFF;">
   Developer | Software Engineer
 </p>
