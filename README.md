@@ -14,8 +14,6 @@
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
 - **Ask me about:** Data Science
 - **How to reach me:** christianp.perlada@gmail.com
-- amboyshit
-
   
 -----🦖🦖🦖-----
 
