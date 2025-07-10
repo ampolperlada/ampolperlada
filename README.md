@@ -10,7 +10,7 @@
 ## About Me
 - **Currently working on:** NFT Integration (Ft Solana)
 - **Currently learning:** Data Mining
-- **Looking for help with:** Collection Management Platform (Airbnb lzi)
+- **Looking for help with:** Collection Management Platform Izi
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
 - **Ask me about:** Data Science
 - **How to reach me:** christianp.perlada@gmail.com
