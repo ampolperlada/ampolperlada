@@ -8,7 +8,7 @@
 </p>
 
 ## About Me
-- **Currently working on:** NFT Integration (Ft Solana)
+- **Currently working on:** NFT Integration (Ft Solana-Eth)
 - **Currently learning:** Data Mining
 - **Looking for help with:** Collection Management Platform Izi
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
