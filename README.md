@@ -16,6 +16,7 @@
 - **make lov for deno syt n
 - **-**bro awa nalang
 _** dba putgnina
+comequ
 -----🦖🦖🦖-----
 
 ---
