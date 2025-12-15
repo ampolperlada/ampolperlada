@@ -13,10 +13,7 @@
 - **Looking for help with:** Collection Management Platform Izi
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
 - **How to reach me:** christianp.perlada@gmail.com
-- **make lov for deno syt n
-_** dba putgnina
-comequ
-uolul
+- **make lov for deno syt n_** dba putgnina comequ uolul
 -----🦖🦖🦖-----
 
 ---
@@ -70,13 +67,13 @@ uolul
       <img src="https://i.ibb.co/1fscVPX6/giphy.gif" width="250px">
     </td>
     <td>
-      <h2> My Projects</h2>
+      <h2>📌 Featured Projects</h2>
       <p>A collection of my best work, showcasing my skills in development</p>
-      <a href="https://github.com/ampolperlada/music-genre-api">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=music-genre-api&theme=radical">
+      <a href="https://github.com/ampolperlada/ampoloppa-site">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=ampoloppa-site&theme=radical">
       </a>
-      <a href="https://github.com/ampolperlada/authentication-sys">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=authentication-sys&theme=radical">
+      <a href="https://github.com/ampolperlada/ARIA">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=ARIA&theme=radical">
       </a>
     </td>
   </tr>
