@@ -64,7 +64,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/1fscVPX6/giphy.gif" width="250px">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1aXdqZHJqbHVuZ2gzdmg4d3cwYjhmbGJ5dW15cXR4ZHhmM2RlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="250px" alt="Anime GIF">
     </td>
     <td>
       <h2>📌 Featured Projects</h2>
