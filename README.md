@@ -69,12 +69,12 @@
     <td>
       <h2>📌 Featured Projects</h2>
       <p>A collection of my best work, showcasing my skills in development</p>
-      <a href="https://github.com/ampolperlada/ampoloppa-site">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=ampoloppa-site&theme=radical">
+      <a href="https://github.com/ampolperlada/bike-blueprint">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=bike-blueprint&theme=radical">
       </a>
-      <a href="https://github.com/ampolperlada/ARIA">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=ARIA&theme=radical">
+      <a href="https://github.com/ampolperlada/pixel-store">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=pixel-store&theme=radical">
       </a>
     </td>
   </tr>
-</table>
+</table>>
