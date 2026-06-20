@@ -67,7 +67,7 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1aXdqZHJqbHVuZ2gzdmg4d3cwYjhmbGJ5dW15cXR4ZHhmM2RlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="250px" alt="Anime GIF">
     </td>
     <td>
-      <h2>📌 Featured Projects</h2>
+      <h2> Featured Projects</h2>
       <p> A collection of my best work, showcasing my skills in development</p>
       <a href="https://github.com/ampolperlada/bike-blueprint">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=bike-blueprint&theme=radical">
