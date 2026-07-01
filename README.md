@@ -10,7 +10,7 @@
 ## About Me
 - **Currently working on:** NFT Integration (Ft- Solana-Eth [v1.18.26])
 - **Currently learning:** Data Mining
-- **Looking for help with:** Collection Management Platform 
+- **Looking for help with:** Collection Management Platform -
 - **Website:** [ampoloppa.netlify.app](https://ampoloppa.netlify.app)
 - **How to reach me:** christianp.perlada@gmail.com  
   
