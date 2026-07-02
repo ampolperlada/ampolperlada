@@ -68,7 +68,7 @@
     </td>
     <td>
       <h2>Featured Projects</h2>
-      <p> A collection of my best work, showcasing my skills in development</p>
+      <p> A collection of my best work, showcasing my skills in development.</p>
       <a href="https://github.com/ampolperlada/bike-blueprint">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=bike-blueprint&theme=radical">
       </a>
