@@ -9,7 +9,7 @@
 
 ## About Me
 - **Currently working on:** NFT Integration (Ft- Solana-Eth [v1.18.26])
-- **Currently learning:** Data Mining
+- **Currently learning:** Data Mining |x|
 - **Looking for help with:** Collection Management Platform - (se
 - **How to reach me:** christianp.perlada@gmail.com  
   
