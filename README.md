@@ -3,16 +3,16 @@
   Developer | Software Engineer
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ampolperlada&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampolperlada&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
 </p>
 
 ## About Me
 - **Currently working on:** NFT Integration (Ft- Solana-Eth [v1.18.26])
-- **Currently learning:** Data Mining |x|
-- **Looking for help with:** Collection Management Platform - (se
-- **How to reach me:** christianp.perlada@gmail.com  
-  
+- **Currently learning:** Data Mining
+- **Looking for help with:** Collection Management Platform
+- **How to reach me:** christianp.perlada@gmail.com
+
 -----🦖🦖🦖-----
 
 ---
@@ -32,24 +32,17 @@
   </a>
 </p>
 
-##  Tech Stack -=-
+## Tech Stack
 <p align="center">
-  <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  
-  <!-- Other -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
@@ -57,23 +50,17 @@
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats-six-rho-30.vercel.app?user=ampolperlada&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ampolperlada&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
-<table>
-  <tr>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1aXdqZHJqbHVuZ2gzdmg4d3cwYjhmbGJ5dW15cXR4ZHhmM2RlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="250px" alt="Anime GIF">
-    </td>
-    <td>
-      <h2>Featured Projects</h2>
-      <p> A collection of my best work, showcasing my skills in development.</p>
-      <a href="https://github.com/ampolperlada/bike-blueprint">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=bike-blueprint&theme=radical">
-      </a>
-      <a href="https://github.com/ampolperlada/pixel-store">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ampolperlada&repo=pixel-store&theme=radical">
-      </a>
-    </td>
-  </tr>
-</table>>
+## Featured Projects
+<p align="center">
+  <a href="https://github.com/ampolperlada/bike-blueprint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=bike-blueprint&theme=radical"/>
+  </a>
+  <a href="https://github.com/ampolperlada/pixel-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=pixel-store&theme=radical"/>
+  </a>
+</p>
