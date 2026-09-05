@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td valign="top" width="65%">
+
 # 俺は, Christian Paul Perlada
 
 **Developer | Software Engineer**
@@ -6,9 +10,19 @@ Currently building NFT integrations across Solana and Ethereum, and picking up d
 
 ### Currently
 - **Working on:** NFT Integration (Solana + Ethereum, v1.18.26)
+- **Building:** [ollama-persona-agents](https://github.com/ampolperlada/ollama-persona-agents) — local AI, custom Ollama personas for coding
 - **Learning:** Data Mining
-- **Looking for help with:** Collection Management Platform
+- **Looking for help with:** Collection Management Platform, and contributors on ollama-persona-agents
 - **Reach me:** christianp.perlada@gmail.com
+
+</td>
+<td valign="top" width="35%">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1aXdqZHJqbHVuZ2gzdmg4d3cwYjhmbGJ5dW15cXR4ZHhmM2RlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ### Stats
 <p>
@@ -45,6 +59,7 @@ Currently building NFT integrations across Solana and Ethereum, and picking up d
   <img src="https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-24292F?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-24292F?style=flat-square&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-24292F?style=flat-square&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3-24292F?style=flat-square&logo=web3dotjs&logoColor=white"/>
 </p>
