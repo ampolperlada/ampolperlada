@@ -1,39 +1,29 @@
-<h1 align="center" style="color: #D16BA5;">俺は, Christian Paul Perlada</h1>
-<p align="center" style="font-size: 32px; color: #FFFFFF;">
-  Developer | Software Engineer
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ampolperlada&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampolperlada&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
-</p>
+# 俺は, Christian Paul Perlada
 
-## About Me
-- **Currently working on:** NFT Integration (Ft- Solana-Eth [v1.18.26])
-- **Currently learning:** Data Mining
+**Developer | Software Engineer**
+
+Currently building NFT integrations across Solana and Ethereum, and picking up data mining on the side. Always down to talk shop about Web3, trading platforms, or just clean code in general.
+
+> If it's not tested, it's broken. If it's not documented, it doesn't exist.
+
+### Currently
+- **Working on:** NFT Integration (Solana + Ethereum, v1.18.26)
+- **Learning:** Data Mining
 - **Looking for help with:** Collection Management Platform
-- **How to reach me:** christianp.perlada@gmail.com
+- **Reach me:** christianp.perlada@gmail.com
 
------🦖🦖🦖-----
+### Stats
+- **Total Contributions:** 2,018 (Nov 24, 2020 - Present)
+- **Current Streak:** 1 day
+- **Longest Streak:** 126 days (Jan 31, 2025 - Jun 5, 2025)
 
 ---
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/christian-perlada-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/>
-  </a>
-  <a href="https://x.com/ampolopppa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010"/>
-  </a>
-  <a href="https://github.com/ampolperlada" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
-  </a>
-  <a href="https://ampoloppa.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010"/>
-  </a>
-</p>
 
-## Tech Stack
-<p align="center">
+### Find me here
+[LinkedIn](https://www.linkedin.com/in/christian-perlada-dev/) · [Twitter/X](https://x.com/ampolopppa) · [GitHub](https://github.com/ampolperlada) · [Portfolio](https://ampoloppa.netlify.app)
+
+### Tech Stack
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -49,18 +39,9 @@
   <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
 </p>
 
----
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ampolperlada&theme=radical" alt="GitHub Streak"/>
-</p>
+### Featured Projects
+- **[bike-blueprint](https://github.com/ampolperlada/bike-blueprint)** — short one-liner about what it does
+- **[pixel-store](https://github.com/ampolperlada/pixel-store)** — short one-liner about what it does
 
 ---
-## Featured Projects
-<p align="center">
-  <a href="https://github.com/ampolperlada/bike-blueprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=bike-blueprint&theme=radical"/>
-  </a>
-  <a href="https://github.com/ampolperlada/pixel-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ampolperlada&repo=pixel-store&theme=radical"/>
-  </a>
-</p>
+*Full contribution graph and activity breakdown are visible further down this page — that part's tracked natively by GitHub.*
