@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="middle" width="65%">
 
 # 俺は, Christian Paul Perlada
 
@@ -9,16 +9,16 @@
 Currently building NFT integrations across Solana and Ethereum, and picking up data mining on the side. Always down to talk shop about Web3, trading platforms, or just clean code in general.
 
 ### Currently
-- **Working on:** NFT Integration (Solana + Ethereum, v1.18.26)
-- **Building:** [ollama-persona-agents](https://github.com/ampolperlada/ollama-persona-agents) — local AI, custom Ollama personas for coding
-- **Learning:** Data Mining
-- **Looking for help with:** Collection Management Platform, and contributors on ollama-persona-agents
-- **Reach me:** christianp.perlada@gmail.com
+**Working on:** NFT Integration (Solana + Ethereum, v1.18.26)<br/>
+**Building:** [ollama-persona-agents](https://github.com/ampolperlada/ollama-persona-agents) — local AI, custom Ollama personas for coding<br/>
+**Learning:** Data Mining<br/>
+**Looking for help with:** Collection Management Platform, and contributors on ollama-persona-agents<br/>
+**Reach me:** christianp.perlada@gmail.com
 
 </td>
-<td valign="top" width="35%">
+<td valign="middle" width="35%">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1aXdqZHJqbHVuZ2gzdmg4d3cwYjhmbGJ5dW15cXR4ZHhmM2RlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="100%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1aXdqZHJqbHVuZ2gzdmg4d3cwYjhmbGJ5dW15cXR4ZHhmM2RlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="80%"/>
 
 </td>
 </tr>
